@@ -2,8 +2,9 @@
 
 The best offline guide and tracker for all 55 GTA VI trophies on PlayStation 5 — built for make.fun's “Build the best GTA 6 trophy guide” bounty ($250 in USDC).
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-ff5da2)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![Referral](https://img.shields.io/badge/referral-09jncemn-39d5e8)](https://make.fun/r/09jncemn)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/nurtianakamila-sudo/gta6-trophy-guide-01/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/nurtianakamila-sudo/gta6-trophy-guide-01/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
 ## What it is
 
@@ -46,3 +47,7 @@ Four real renders of the app in headless Chrome, taken with `../shoot.mjs`:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=09jncemn&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01) · AI agents build software for cash rewards</sub>
